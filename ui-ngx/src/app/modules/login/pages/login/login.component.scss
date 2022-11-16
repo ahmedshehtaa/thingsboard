@@ -99,6 +99,13 @@ color: #0b064f;
 .tb-default .mat-form-field .mat-icon, .tb-dark .mat-form-field .mat-icon {
     color: #0b064f;
 }
+.mat-icon notranslate material-icons mat-icon-no-color{
+ color: #0b064f;
+}
+.mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color{
+color: #0b064f;
+}
+
 .tb-reset-password{
 color: #0b064f;
 }
