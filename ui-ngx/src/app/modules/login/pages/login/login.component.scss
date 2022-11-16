@@ -25,6 +25,7 @@
     .tb-login-form {
       @media #{$mat-gt-xs} {
         width: 550px !important;
+        color: #0b064f;
       }
 
       .forgot-password {
@@ -90,4 +91,5 @@
     }
   }
 }
+
 
