@@ -25,6 +25,7 @@
     .tb-login-form {
       @media #{$mat-gt-xs} {
         width: 550px !important;
+        color: #0b064f;
       }
 
       .forgot-password {
@@ -90,22 +91,5 @@
     }
   }
 }
-#username-input{
-color: #0b064f;
-}
-#password-input{
-color: #0b064f;
-}
-.tb-default .mat-form-field .mat-icon, .tb-dark .mat-form-field .mat-icon {
-    color: #0b064f;
-}
-.mat-icon notranslate material-icons mat-icon-no-color{
- color: #0b064f;
-}
-.mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color{
-color: #0b064f;
-}
 
-.tb-reset-password{
-color: #0b064f;
-}
+
